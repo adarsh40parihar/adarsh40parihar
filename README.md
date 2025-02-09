@@ -6,24 +6,6 @@
 
 ---
 
-## 🚀 Projects
-
-- **[FoodDelivery.io](https://github.com/adarsh40parihar/food_delivery.io)** - A dynamic food delivery platform.
-  - Enabled JWT-based registration and login.
-  - Managed over 200 daily orders.
-  - Integrated secure payment processing.
-
-- **[InternHelper](https://github.com/adarsh40parihar/InternHelper)** - Automated Internshala job applications.
-  - Developed with Node.js and Puppeteer.
-
-- **[Fake Profile Detector](https://github.com/adarsh40parihar/Fake-Profile-Detector)** - Detects fake Instagram profiles.
-  - Machine Learning with Random Forest.
-
-- **[WhatsApp Clone](https://github.com/adarsh40parihar/React/tree/master/WhatsappClone)** - Real-time chat application.
-  - Built using React and Firebase.
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
