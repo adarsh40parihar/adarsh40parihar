@@ -32,7 +32,7 @@
 ## 🚀 Frontend Development
 <p align="left">
 <a href="https://nextjs.org/">
-<img src="./src/next.js.png" width="40" height="40" alt="React"/>
+<img src="./src/next.png" width="40" height="40" alt="React"/>
 </a>
 <a href="https://reactjs.org/">
 <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
