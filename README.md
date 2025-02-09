@@ -6,187 +6,211 @@
 
 ---
 
+<!-- Dark theme optimized header with custom styling -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Your+Name;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</div>
+
+<!-- Introduction Section -->
+<h3 align="center">A passionate developer focused on Full Stack Development & Cybersecurity</h3>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 # 🛠️ Technical Skills & Technologies
 
 ## 💻 Programming Languages
 <p align="left">
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<a href="https://www.cplusplus.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
 </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
 </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<a href="https://www.java.com">
+<img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>
 </a>
 </p>
 
 ## 🚀 Frontend Development
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<a href="https://reactjs.org/">
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<a href="https://www.w3.org/html/">
+<img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<a href="https://www.w3schools.com/css/">
+<img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/>
 </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+<a href="https://sass-lang.com">
+<img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass"/>
 </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+<a href="https://redux.js.org">
+<img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/>
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<a href="https://getbootstrap.com">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/>
 </a>
 </p>
 
 ## 🛠️ Backend Development
 <p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+<a href="https://nodejs.org">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+<a href="https://expressjs.com">
+<img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js"/>
 </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+<a href="https://www.nginx.com">
+<img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/>
 </a>
 </p>
 
 ## 🗄️ Databases
 <p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
 </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<a href="https://firebase.google.com/">
+<img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/>
 </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+<a href="https://redis.io">
+<img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/>
 </a>
 </p>
 
 ## ☁️ DevOps & Cloud Tools
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+<a href="https://aws.amazon.com">
+<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
 </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+<a href="https://kubernetes.io">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes"/>
 </a>
-<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+<a href="https://www.jenkins.io">
+<img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/>
 </a>
 </p>
 
 ## 🔧 Development Tools
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
 </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>
 </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<a href="https://postman.com">
+<img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/>
 </a>
 </p>
 
 ## 💻 Operating Systems
 <p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>
 </a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+<a href="https://ubuntu.com/">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu"/>
 </a>
 </p>
 
 ## 🔒 Cybersecurity Tools & Skills
 <p align="left">
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" alt="Burp Suite" width="40" height="40"/>
+<a href="https://www.kali.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Kali Linux"/>
 </a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
+<a href="https://www.wireshark.org/">
+<img src="https://www.wireshark.org/assets/theme-2015/images/favicon.ico" width="40" height="40" alt="Wireshark"/>
 </a>
-<a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Generic/src/main/resources/images/GhidraIcon64.png" alt="Ghidra" width="40" height="40"/>
+<a href="https://www.metasploit.com/">
+<img src="https://www.metasploit.com/includes/images/favicon.ico" width="40" height="40" alt="Metasploit"/>
 </a>
 </p>
 
 ## 🧠 Core Programming Skills
-- **Data Structures & Algorithms**
-  - Advanced Data Structures
-  - Algorithm Design & Analysis
-  - Competitive Programming
-  - Problem-Solving Techniques
+```text
+⚡ Data Structures & Algorithms
+  ├─ Advanced Data Structures
+  ├─ Algorithm Design & Analysis
+  ├─ Competitive Programming
+  └─ Problem-Solving Techniques
 
-- **Software Architecture**
-  - Object-Oriented Programming (OOP)
-  - MVVM Architecture
-  - Design Patterns
-  - SOLID Principles
-  - Clean Code Practices
+🎯 Software Architecture
+  ├─ Object-Oriented Programming (OOP)
+  ├─ MVVM Architecture
+  ├─ Design Patterns
+  ├─ SOLID Principles
+  └─ Clean Code Practices
 
-- **API Development**
-  - RESTful APIs
-  - API Security
-  - API Documentation
-  - API Testing
+🔄 API Development
+  ├─ RESTful APIs
+  ├─ API Security
+  ├─ API Documentation
+  └─ API Testing
+```
 
 ## 🛡️ Cybersecurity Expertise
-- **Web Security**
-  - Penetration Testing
-  - Vulnerability Assessment
-  - OWASP Top 10
-  - XSS & CSRF Prevention
-  - SQL Injection Prevention
+```text
+🔐 Web Security
+  ├─ Penetration Testing
+  ├─ Vulnerability Assessment
+  ├─ OWASP Top 10
+  ├─ XSS & CSRF Prevention
+  └─ SQL Injection Prevention
 
-- **System Security**
-  - Network Security
-  - Cryptography
-  - Security Auditing
-  - Incident Response
-  - Malware Analysis
+🛠️ System Security
+  ├─ Network Security
+  ├─ Cryptography
+  ├─ Security Auditing
+  ├─ Incident Response
+  └─ Malware Analysis
 
-- **Security Tools**
-  - Burp Suite
-  - Wireshark
-  - Ghidra
-  - Metasploit
-  - Nmap
+🔧 Security Tools
+  ├─ Burp Suite
+  ├─ Wireshark
+  ├─ Ghidra
+  ├─ Metasploit
+  └─ Nmap
+```
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)](https://github.com/YOURUSERNAME)
+<!-- GitHub Stats Cards with Dark Theme -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)](https://github.com/YOURUSERNAME)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)](https://github.com/YOURUSERNAME)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+</p>
 
-
+<!-- GitHub Activity Graph -->
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=YOURUSERNAME&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+</p>
 
 
 ---
@@ -210,19 +234,25 @@
 ---
 
 
-### 🌐 Connect with me:
+## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOURLINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/YOURUSERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/YOURLINKEDIN" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/>
+</a>
+<a href="https://github.com/YOURUSERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40"/>
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40"/>
+</a>
 </p>
 
----
+<!-- Footer -->
 <p align="center">
-<i>⚡ Fun fact: The first computer bug was an actual bug - a moth found trapped in a computer relay in 1947!</i>
-</p>)  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!;Let's+connect+and+create+together!" alt="Footer" />
+</p>
 
----
-
-🔗 *Email me at* [adarshparihar2540@gmail.com](mailto:adarsh2540parihar@gmail.com)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+<!-- Snake Animation -->
+<p align="center">
+<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
