@@ -228,9 +228,9 @@
 </a>
 </p>
 <!-- Snake -->
-<div align="centre">
-  ![snake gif](https://github.com/adarsh40parihar/adarsh40parihar/blob/output/github-snake-dark.svg)
-</div>
+
+![snake gif](https://github.com/adarsh40parihar/adarsh40parihar/blob/output/github-snake-dark.svg)
+
 
 <!-- Footer -->
 <p align="center">
