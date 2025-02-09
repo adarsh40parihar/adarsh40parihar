@@ -227,24 +227,15 @@
 <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40"/>
 </a>
 </p>
+<!-- Snake -->
+<div align="centre">
+  ![snake gif](https://github.com/adarsh40parihar/adarsh40parihar/blob/output/github-snake-dark.svg)
+</div>
 
 <!-- Footer -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!;Let's+connect+and+create+together!" alt="Footer" />
 </p>
 
-<!-- Snake -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-snake.svg"
-  />
-</picture>
+
+
