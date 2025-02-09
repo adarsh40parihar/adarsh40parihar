@@ -191,9 +191,7 @@
 </p>
 
 <!-- GitHub Activity Graph -->
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=adarsh40parihar&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh40parihar&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
@@ -236,6 +234,8 @@
 </p>
 
 <!-- Snake Animation -->
-<p align="center">
-<img src="https://github.com/adarsh40parihar/adarsh40parihar/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-contribution-grid-snake.svg">
+</picture>
