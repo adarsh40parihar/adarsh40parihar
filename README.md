@@ -233,7 +233,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!;Let's+connect+and+create+together!" alt="Footer" />
 </p>
 
-<!-- Snake Animation -->
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-contribution-grid-snake.svg">
