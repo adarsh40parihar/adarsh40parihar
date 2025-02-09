@@ -31,6 +31,9 @@
 
 ## 🚀 Frontend Development
 <p align="left">
+<a href="https://nextjs.org/">
+<img src="./src/next.js.png" width="40" height="40" alt="React"/>
+</a>
 <a href="https://reactjs.org/">
 <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
 </a>
@@ -55,6 +58,12 @@
 </a>
 <a href="https://expressjs.com">
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js"/>
+</a>
+<a href="https://jwt.io/">
+<img src="./src/jwt.png" width="40" height="40" alt="JWT"/>
+</a>
+<a href="https://www.geeksforgeeks.org/rest-api-introduction/">
+<img src="./src/rest-api.png" width="40" height="40" alt="Rest API"/>
 </a>
 </p>
 
