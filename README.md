@@ -199,24 +199,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- **SIH-2023** - Top 3 team at college's internal hackathon.
-- **Winter of Code 5.0 Winner** - Cyberlabs Hackathon, IIT(ISM) Dhanbad.
-- **Global Rank 215** - CodeChef Starters 128.
-- Solved **600+ problems** in DSA across various coding platforms.
-
----
-
-## 🎯 Positions of Responsibility
-
-- **Organizing Member** - PearlCTF 2024
-- **Counseling Head** - Mentored 100+ students from GUS100 Kanpur for JEE.
-- **Member** - CYBERLABS (Data & Software Technology Club)
-- **Member** - LightsCameraISM (Filmmaking Club)
-
----
-
 
 ## 🌐 Connect with me
 <p align="left">
