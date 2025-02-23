@@ -59,6 +59,9 @@
 <a href="https://expressjs.com">
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js"/>
 </a>
+<a href="https://expressjs.com">
+<img src="./src/nodemon.png" width="40" height="40" alt="Nodemon"/>
+</a>
 <a href="https://jwt.io/">
 <img src="./src/jwt.png" width="40" height="40" alt="JWT"/>
 </a>
