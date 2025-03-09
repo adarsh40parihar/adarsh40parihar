@@ -15,134 +15,66 @@
 
 ## 💻 Programming Languages
 <p align="left">
-<a href="https://www.cplusplus.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
-</a>
-<a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
-</a>
-<a href="https://www.java.com">
-<img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>
-</a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ## 🚀 Frontend Development
 <p align="left">
-<a href="https://nextjs.org/">
-<img src="./src/next.png" width="40" height="40" alt="React"/>
-</a>
-<a href="https://reactjs.org/">
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
-</a>
-<a href="https://www.w3.org/html/">
-<img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/>
-</a>
-<a href="https://www.w3schools.com/css/">
-<img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/>
-</a>
-<a href="https://redux.js.org">
-<img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux"/>
-</a>
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/>
-</a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </p>
 
 ## 🛠️ Backend Development
 <p align="left">
-<a href="https://nodejs.org">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com">
-<img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js"/>
-</a>
-<a href="https://expressjs.com">
-<img src="./src/nodemon.png" width="40" height="40" alt="Nodemon"/>
-</a>
-<a href="https://jwt.io/">
-<img src="./src/jwt.png" width="40" height="40" alt="JWT"/>
-</a>
-<a href="https://www.geeksforgeeks.org/rest-api-introduction/">
-<img src="./src/rest-api.png" width="40" height="40" alt="Rest API"/>
-</a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
 </p>
 
-## 🗄️ Databases
+## 🗄️ Databases & Storage
 <p align="left">
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
-</a>
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
-</a>
-<a href="https://firebase.google.com/">
-<img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/>
-</a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-## ☁️ DevOps & Cloud Tools
+## ☁️ DevOps, Cloud & Operating Systems
 <p align="left">
-<a href="https://aws.amazon.com">
-<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>
-</a>
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
-</a>
-<a href="https://kubernetes.io">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes"/>
-</a>
-<a href="https://www.vagrantup.com/">
-<img src="./src/vagrant.svg" width="40" height="40" alt="Vagrant"/>
-</a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
 ## 🔧 Development Tools
 <p align="left">
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>
-</a>
-<a href="https://postman.com">
-<img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/>
-</a>
-</p>
-
-## 💻 Operating Systems
-<p align="left">
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>
-</a>
-<a href="https://ubuntu.com/">
-<img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu"/>
-</a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ## 🔒 Cybersecurity Tools & Skills
 <p align="left">
-<a href="https://www.kali.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Kali Linux"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-<img src="./src/full_colored_dark.svg"height="45" alt="Bash Shell"/>
-</a>
-<a href="https://www.wireshark.org/">
-<img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" width="40" height="40" padding="5" alt="Wireshark" />
-</a>
-<a href="https://ghidra-sre.org/">
-<img src="./src/Ghidra_logo.svg.png" width="40" height="40" alt="Ghidra"/>
-</a>
-<a href="https://portswigger.net/burp/">
-<img src="./src/image.png" width="40" height="40" padding="5" alt="Burp Suite" />
-</a>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Ghidra-DA291C?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 </p>
+
 
 ## 🧠 Core Programming Skills
 ```text
@@ -164,6 +96,7 @@
   ├─ Penetration Testing
   ├─ Bash Scripting
   ├─ Cryptography
+  ├─ Steganography
   ├─ OWASP Top 10
   ├─ Web Exploitation
   ├─ SQL Injection Prevention
