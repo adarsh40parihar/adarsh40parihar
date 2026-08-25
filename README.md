@@ -1,158 +1,203 @@
-
-<!-- Dark theme optimized header with custom styling -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=535&lines=Hi+%F0%9F%91%8B+I'm+Adarsh+Singh+Parihar;Mern+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=900&color=00E7FF&center=true&vCenter=true&random=false&width=620&height=50&lines=Hi+%F0%9F%91%8B+I'm+Adarsh+Singh+Parihar;Software+Engineer;Multi-Agent+Systems+Developer;Full+Stack+%2B+Cloud+%2B+DevOps" alt="Adarsh Singh Parihar" />
+
+<p>
+<code>Agentic AI</code> &nbsp;·&nbsp; <code>Multi-Agent Systems</code> &nbsp;·&nbsp; <code>Scalable Backends</code> &nbsp;·&nbsp; <code>Cloud Automation</code>
+</p>
+
+<a href="https://www.linkedin.com/in/adarsh40parihar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/siadar/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://github.com/adarsh40parihar"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:adarshparihar40@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=adarsh40parihar&style=for-the-badge&color=00E7FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
-<!-- Introduction Section -->
-<h3 align="center">💼 Former Summer Analyst Intern @Goldman Sachs </h3>
- <h3 align="center">🎓 Final-year B.Tech student at Indian Institute of Technology (ISM), Dhanbad. </h3>
-<h3 align="center">💻 A passionate developer focused on Mern Stack Development, DevOps & Cybersecurity</h3>
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🤖 AI &amp; Agents**
+
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langgraph&logoColor=1C9A6E" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C9A6E" />
+<img src="https://img.shields.io/badge/Multi--Agent-0D1117?style=flat-square&logo=probot&logoColor=00E7FF" />
+<img src="https://img.shields.io/badge/ReAct%20Agents-0D1117?style=flat-square&logo=openaigym&logoColor=00E7FF" />
+<img src="https://img.shields.io/badge/Tool%20Binding-0D1117?style=flat-square&logo=langchain&logoColor=1C9A6E" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E70488" />
+
+</td>
+<td valign="top" width="50%">
+
+**💻 Languages**
+
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00A5E0" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD343" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4FA3D1" />
+<img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🎨 Frontend**
+
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=A175D8" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=1572B6" />
+
+</td>
+<td valign="top">
+
+**⚙️ Backend**
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=openapiinitiative&logoColor=6BA539" />
+<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**☁️ Cloud &amp; DevOps**
+
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=icloud&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Lambda-0D1117?style=flat-square&logo=serverless&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5" />
+<img src="https://img.shields.io/badge/LocalStack-0D1117?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+
+</td>
+<td valign="top">
+
+**🗄️ Databases &amp; Tools**
+
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/DynamoDB-0D1117?style=flat-square&logoColor=4053D6" />
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+**🛡️ Security**
+
+<img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94" />
+<img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=F47B20" />
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" />
+<img src="https://img.shields.io/badge/Ghidra-0D1117?style=flat-square&logoColor=DA291C" />
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-0D1117?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptography-0D1117?style=flat-square&logo=letsencrypt&logoColor=00E7FF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Technical Skills & Technologies
+<!-- ===================== DSA / LEETCODE ===================== -->
+## 🧩 DSA &amp; Competitive Programming
 
-## 💻 Programming Languages
-<p align="left">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+<div align="center">
 
-## 🚀 Frontend Development
-<p align="left">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-</p>
+<a href="https://leetcode.com/u/siadar/">
+<img src="https://leetcard.jacoblin.cool/siadar?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode stats for siadar" />
+</a>
 
-## 🛠️ Backend Development
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
-</p>
+<br><br>
 
-## 🗄️ Databases
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+<a href="https://leetcode.com/u/siadar/"><img src="https://img.shields.io/badge/LeetCode-Knight%20%C2%B7%201855-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Knight 1855"/></a>
+<img src="https://img.shields.io/badge/Codeforces-Specialist%20%C2%B7%201504-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces Specialist 1504"/>
+<img src="https://img.shields.io/badge/CodeChef-4%E2%98%85%20%C2%B7%201839-0D1117?style=for-the-badge&logo=codechef&logoColor=E5A44C" alt="CodeChef 4 star 1839"/>
+<img src="https://img.shields.io/badge/1300%2B-Problems%20Solved-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00E7FF" alt="1300+ problems solved"/>
 
-## ☁️ DevOps, Cloud & Operating Systems
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-</p>
+</div>
 
-## 🔧 Development Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+---
 
-## 🔒 Cybersecurity Tools & Skills
-<p align="left">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Ghidra-DA291C?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-</p>
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 What I've Built
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🧠 Core Programming Skills
-```text
-⚡ Data Structures & Algorithms
-  ├─ Data Structures
-  ├─ Algorithm
-  ├─ Competitive Programming
-  └─ Problem-Solving Techniques
+### 🎬 CineHub
+An OTT platform with real-time video streaming, JWT auth, Razorpay subscriptions, wishlists and OTP recovery.
 
-🎯 Software Architecture
-  ├─ Object-Oriented Programming (OOP)
-  └─ MVC Architecture
+`Next.js` `Node` `MongoDB` `Redux`
 
-```
+</td>
+<td width="50%" valign="top">
 
-## 🛡️ Cybersecurity Expertise
-```text
-🔐 Security
-  ├─ Penetration Testing
-  ├─ Bash Scripting
-  ├─ Cryptography
-  ├─ Steganography
-  ├─ OWASP Top 10
-  ├─ Web Exploitation
-  ├─ SQL Injection Prevention
-  └─ Network Security
+### 🐚 TempShell
+Isolated, disposable shell environments in the browser — **&lt;200ms** container start-up, JWT auth, MySQL-backed users.
 
+`Docker` `FastAPI` `React` `MySQL`
 
+</td>
+</tr>
+</table>
 
-🔧 Security Tools
-  ├─ Burp Suite
-  ├─ Wireshark
-  ├─ Ghidra
-  └─ Nmap
-```
+---
 
+<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Cards with Dark Theme -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh40parihar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh40parihar&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh40parihar&theme=github_dark" alt="Profile details" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh40parihar&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh40parihar&theme=github_dark" alt="Top languages by repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh40parihar&theme=github_dark" alt="Top languages by commit" />
 
-<!-- GitHub Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh40parihar&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh40parihar&theme=github_dark" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh40parihar&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=adarsh40parihar&hide_border=true&background=0D1117&stroke=30363D&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&excludeDaysLabel=6E7681" alt="GitHub streak" />
+
+</div>
 
 ---
 
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Contribution Graph
 
-## 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/adarsh40parihar/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/>
-</a>
-<a href="https://github.com/adarsh40parihar" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40"/>
-</a>
-<a href="mailto:adarshparihar2540@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40"/>
-</a>
-</p>
-<!-- Snake -->
+<div align="center">
 
-![snake gif](https://github.com/adarsh40parihar/adarsh40parihar/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/adarsh40parihar/adarsh40parihar/output/github-snake-dark.svg" alt="snake eating my contributions" />
 
+</div>
 
-<!-- Footer -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!;Let's+connect+and+create+together!" alt="Footer" />
-</p>
+---
 
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=460&height=40&lines=Thanks+for+stopping+by!;Let's+build+something+together+%E2%9C%A8" alt="Footer" />
 
+</div>
