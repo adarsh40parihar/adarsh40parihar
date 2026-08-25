@@ -178,8 +178,8 @@ Isolated, disposable shell environments in the browser — **&lt;200ms** contain
 
 <br><br>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh40parihar&theme=github_dark" alt="Top languages" />
-<img width="51%" src="https://streak-stats.demolab.com/?user=adarsh40parihar&hide_border=true&background=0D1117&stroke=30363D&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&excludeDaysLabel=6E7681" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh40parihar&theme=github_dark" alt="Top languages" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adarsh40parihar&hide_border=true&background=0D1117&stroke=30363D&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&excludeDaysLabel=6E7681" alt="GitHub streak" />
 
 </div>
 
