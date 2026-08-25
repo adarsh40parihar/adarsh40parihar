@@ -168,17 +168,18 @@ Isolated, disposable shell environments in the browser — **&lt;200ms** contain
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh40parihar&theme=github_dark" alt="Profile details" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh40parihar&theme=github_dark" alt="Top languages by repo" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh40parihar&theme=github_dark" alt="Top languages by commit" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh40parihar&theme=github_dark" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh40parihar&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aadarsh40parihar%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=PRs%20Merged&style=for-the-badge&labelColor=0D1117&color=161B22&logo=github&logoColor=00E7FF" alt="Merged pull requests" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadarsh40parihar&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&labelColor=0D1117&color=161B22&logo=github&logoColor=00E7FF" alt="Public repositories" />
+<img src="https://img.shields.io/github/followers/adarsh40parihar?style=for-the-badge&label=Followers&labelColor=0D1117&color=161B22&logo=github&logoColor=00E7FF" alt="Followers" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=adarsh40parihar&hide_border=true&background=0D1117&stroke=30363D&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&excludeDaysLabel=6E7681" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh40parihar&theme=github_dark" alt="Profile details" />
+
+<br><br>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh40parihar&theme=github_dark" alt="Top languages" />
+<img width="51%" src="https://streak-stats.demolab.com/?user=adarsh40parihar&hide_border=true&background=0D1117&stroke=30363D&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&excludeDaysLabel=6E7681" alt="GitHub streak" />
 
 </div>
 
